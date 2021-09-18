@@ -13,7 +13,8 @@
     "@tailwindcss/forms": "^0.3.2",
     "@tailwindcss/typography": "^0.4.0",
     "core-js": "^3.9.1",
-    "nuxt": "^2.15.3"
+    "nuxt": "^2.15.3",
+    "quagga": "^0.12.1"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^4.0.1",

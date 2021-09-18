@@ -1,4 +1,4 @@
-# Nuxt.jsにTailwindCSS、microCMS、SCSSを導入した雛形
+# Neurona Quest
 
 ## Build Setup
 
@@ -8,6 +8,10 @@ $ yarn install
 
 # serve with hot reload at localhost:3000
 $ yarn dev
+
+実機で確認する場合、ローカルでもhttps通信でないとカメラが起動できないので
+
+$ ngrok http 8080
 
 # build for production and launch server
 $ yarn build
